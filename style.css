@@ -1,4 +1,7 @@
 body{
-    color: black;
-    background-color: rgb(211, 16, 16);
+    color:rgb(201, 7, 7);
+    background-color: rgb(238, 134, 134);
+}
+header{
+    border:solid,10px rgb(150, 73, 86)
 }
